@@ -1,3 +1,9 @@
+Food:
 - khinkali
 - shaurma
 - apples
+
+Movies:
+- batman
+- legends of fall
+- sense of woman
